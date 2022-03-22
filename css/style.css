@@ -1,0 +1,213 @@
+
+
+.box {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    width: 798px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.title {
+    color: #ff6A28;
+    font-size: 20px;
+    text-transform: uppercase;    
+    font-weight: 700;
+    
+}
+
+.sub-title {
+    margin-top: 8px;
+    font-size: 16px;
+    color: #61656d;    
+}
+
+.image {
+    padding-top: 20px;    
+}
+
+.info-box {
+    width: 118px ;
+    height: 84px;
+    background-color: #F0f0f0;
+    border-radius: 5px;
+}
+
+body{
+    background: #f0f0f0;
+}
+
+*{
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+
+h1,h2,h3{
+    margin: 0;
+}
+
+
+
+.container{
+    width: fit-content;
+}
+
+
+
+#title{
+    color: #ff6a28;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-bottom: 3px;}
+
+.box{
+    background-color: #ffffff;
+    padding-top: 20px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-bottom: 12px;
+    width: fit-content;
+    border-radius: 5px;
+    margin-top: 14px;
+    margin-bottom: 37px;
+    min-width: 798px;
+    max-width: 798px;
+    
+}
+
+.sub-title{
+    color: #61656D;
+    font-size: 16px;
+    margin-bottom: 14px;
+}
+
+.sub-title-preparation{
+    color: #ff6a28;
+    text-transform: uppercase;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.list{
+    padding: 0;
+    padding-left: 15px;
+}
+
+.list-item{
+    color: #61656d;
+    padding-bottom: 5px;
+    font-size: 14px;  
+}
+.list-item--preparation-mode::marker{
+    font-size: 20px;
+}
+
+
+.box-info{
+    background-color: #f0f0f0;
+    width: 118px;
+    height: 85px;
+    display: flex;   
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    margin-right: 9px;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.box-ana-flavia{
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    width: 238px;
+    height: 85px;
+    border-radius: 5px;
+}
+
+
+.foto-ana-flavia{
+    width: 60px;
+    height: 60px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 19px;
+    padding-right: 11px;
+}
+
+.nome-flavia{
+    font-weight: 700;
+    color: #ff6a28;
+    align-items: center;
+    margin-bottom: -70px;
+}
+
+.membro-desde{
+    color: #61665D;
+    font-size: 14px;
+    align-items: center;
+}
+
+
+.icon{
+    padding: 6px;
+    font-size: 14px;
+}
+
+.info-text{
+    text-align: center;
+    color: #61656d;
+    font-size: 14px;
+}
+
+
+
+.info-wrapper{
+    display: flex;
+}
+
+.principal-image{
+    margin-bottom: 10px;
+    border-radius: 5px;
+
+}
+
+.info{
+    color: #ff6a28;
+    font-weight: 700;
+
+}
+
+.icon-title{
+    margin-right: 8px;
+}
+
+.information-title{
+    color: #61665D;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 8px 0;
+    margin-bottom: 16px;
+}
+
+.box--small-margin{
+    margin-bottom: 16px;
+}
+
+.box-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.more-info-text {
+    color: #61656d;
+    padding-bottom: 5px;
+    font-size: 14px; 
+}
